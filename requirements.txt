@@ -2,7 +2,7 @@ jupyter
 notebook
 fastai
 glob2
-sklearn
+scikit-learn
 pandas
 numpy
 seaborn
